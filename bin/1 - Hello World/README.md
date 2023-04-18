@@ -1,0 +1,1 @@
+The entrypoint of every dart program is the **main()** method, so every dart program must contain this method.
